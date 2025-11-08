@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# uv/poetry/pipenv
+uv.lock
+poetry.lock
+Pipfile.lock
+
+# pyproject build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Test outputs
+htmlcov/
+.coverage
+.tox/
+
+# Misc
+*.swp
+*.bak
